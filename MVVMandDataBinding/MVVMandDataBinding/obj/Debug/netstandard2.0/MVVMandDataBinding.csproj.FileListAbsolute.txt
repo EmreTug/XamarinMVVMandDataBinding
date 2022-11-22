@@ -1,0 +1,15 @@
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\bin\Debug\netstandard2.0\MVVMandDataBinding.deps.json
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\bin\Debug\netstandard2.0\MVVMandDataBinding.dll
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\bin\Debug\netstandard2.0\MVVMandDataBinding.pdb
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\MVVMandDataBinding.csproj.AssemblyReference.cache
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\MVVMandDataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\MVVMandDataBinding.AssemblyInfoInputs.cache
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\MVVMandDataBinding.AssemblyInfo.cs
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\MVVMandDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\MVVMandDataBinding.dll
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\refint\MVVMandDataBinding.dll
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\MVVMandDataBinding.pdb
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\ref\MVVMandDataBinding.dll
+C:\Users\Msi\source\repos\MVVMandDataBinding\MVVMandDataBinding\MVVMandDataBinding\obj\Debug\netstandard2.0\View\MessagePage.xaml.g.cs

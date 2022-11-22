@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             x:Name="mesagepage"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:viewModels="clr-namespace:MVVMandDataBinding.ViewModel;assembly=MVVMandDataBinding"
+             x:Class="MVVMandDataBinding.View.MessagePage">
+    <ContentPage.BindingContext>
+        <viewModels:MessageViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <ScrollView>
+            <CollectionView ItemsSource="{Binding Messages}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Label Text="{Binding Text}" HorizontalOptions="End" VerticalOptions="EndAndExpand" FontAttributes="Bold" FontSize="25" Margin="0,20,20,0"></Label>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </ScrollView>
+        <Frame  VerticalOptions="EndAndExpand">
+            <StackLayout Orientation="Horizontal">
+                <Frame Margin="0" Padding="0" CornerRadius="10">
+                    <Entry x:Name="entry" BackgroundColor="Azure" WidthRequest="300" Placeholder="Mesaj" ></Entry>
+                </Frame>
+                <ImageButton CommandParameter="{Binding Source={x:Reference entry}}" Command="{Binding Path=BindingContext.AddMessage, Source={x:Reference mesagepage}}"
+                    Source="send.png" HeightRequest="25" HorizontalOptions="EndAndExpand">
+
+                </ImageButton>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>
